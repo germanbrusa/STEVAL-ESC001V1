@@ -1,0 +1,6 @@
+Added Component: Designator=D1(DO-216AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Parameter 1"; Value = "STPS1L40M"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V- Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Member To Class: ClassName=U_Power_Phase Member=Component D1 40V 1A

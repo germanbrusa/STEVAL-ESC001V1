@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [STEVAL_ESC.PrjPcb]
+   Generated File[STEVAL_ESC_Panelizado-Plated.TXT]
+   Generated File[STEVAL_ESC_Panelizado-NonPlated.TXT]
+   Generated File[STEVAL_ESC_Panelizado.LDP]
+   Generated File[STEVAL_ESC_Panelizado.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 06:54:16 p.m. On 27/02/2020

@@ -1,0 +1,4 @@
+Remove Pin=R9-2 From Net=VSHUNT_1
+Remove Pin=R13-2 From Net=VSHUNT_2
+Remove Pin=R17-2 From Net=VSHUNT_3
+Remove Pin=R32-2 From Net=V+

@@ -1,0 +1,18 @@
+Change component parameters: Designator = "D13"; UniqueID = "\CIVFUJYO\IWXFWULU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "D14"; UniqueID = "\CIVFUJYO\KWSGYJXP"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=VBUS Pin=D2-1
+Added Pin To Net: NetName=+3.3V Pin=D2-2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2

@@ -1,0 +1,10 @@
+Added Component: Designator=D13(LED_0603)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D14(LED_0603)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=GND Pin=D14-2
+Added Member To Class: ClassName=U_Comuncation Member=Component D13 LTST-C193KGKT-5A
+Added Member To Class: ClassName=U_Comuncation Member=Component D14 LTST-C193KRKT-5A
